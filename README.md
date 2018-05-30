@@ -1,1 +1,6 @@
-# Monada
+#Monada#
+
+## Qué es mónada? ##
+Mónada es un grupo de investigación que reúne docentes y estudiantes de las aéreas de historia de arte, música, teoría del arte y crítica; nuestros temas de interés abordan las formas en como la producción cultural se proyecta, circula y consume en la sociedad. Los medios de comunicación, los circuitos de divulgación cultural, las estrategias de consumo, la producción de narrativas históricas, el análisis historiográfico o incluso la inscripción institucional de las artes, son algunos de los diversos intereses y perspectivas de trabajo del grupo.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.
